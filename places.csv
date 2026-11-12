@@ -1,0 +1,81 @@
+id,place,area,category,tags,latitude,longitude,dist_from_isbt_km,drive_time_min,entry_fee_inr,best_season,suggested_duration_hrs,difficulty,family_friendly,adventure_1to5,spiritual_1to5,nature_1to5,food_shopping_1to5,popularity_1to5
+1,Clock Tower (Ghanta Ghar),Dehradun City,Landmark,landmark;market,30.3243,78.0412,2,8,0,Year-round,1,easy,1,1,1,1,3,3
+2,Paltan Bazaar,Dehradun City,Market,shopping;street-food,30.3234,78.0420,1,5,0,Year-round,2,easy,1,1,1,1,5,4
+3,Forest Research Institute,Dehradun City,Heritage/Museum,heritage;museum;campus,30.3416,77.9965,7,20,200,Oct-Mar,3,easy,1,1,1,3,1,4
+4,Tapkeshwar Temple,Dehradun City,Temple,cave-temple;shiva;stream,30.3340,78.0160,6,20,0,Year-round,1,easy,1,1,5,3,1,4
+5,Santla Devi Temple,Dehradun City,Temple,temple;hilltop,30.3420,78.0610,6,18,0,Year-round,1,easy,1,1,5,2,1,3
+6,Tapovan Mandir,Dehradun City,Temple,temple;quiet,30.3500,78.0150,7,20,0,Year-round,1,easy,1,1,4,2,1,3
+7,Mindrolling Monastery,Dehradun City,Monastery,monastery;stupa;peaceful,30.2670,78.0910,9,25,0,Year-round,2,easy,1,1,5,2,1,5
+8,Buddha Temple Clement Town,Dehradun City,Monastery,monastery;stupa,30.2690,78.0050,10,25,0,Year-round,2,easy,1,1,5,2,1,4
+9,Guru Ram Rai Darbar,Dehradun City,Gurudwara,gurudwara;heritage;architecture,30.3150,78.0400,3,10,0,Year-round,1,easy,1,1,5,1,1,4
+10,Sahastradhara,Dehradun City,Waterfall,waterfall;sulphur-springs;ropeway,30.3769,78.1307,14,35,50,Oct-Jun,3,easy,1,2,1,4,2,4
+11,Robbers Cave (Guchhupani),Dehradun City,Nature/Adventure,cave;stream;picnic,30.3918,78.0746,9,25,50,Oct-Mar,2,easy,1,3,1,4,1,4
+12,Malsi Deer Park,Dehradun City,Zoo/Park,deer;park;kids,30.3790,78.0840,11,25,40,Oct-Mar,2,easy,1,1,1,3,1,3
+13,Lacchiwala Nature Park,Dehradun City,Picnic/River,river;picnic;kids,30.2230,78.1000,20,40,50,Mar-Jun,3,easy,1,2,1,4,1,3
+14,Kalanga War Memorial and Doon Viewpoint,Dehradun City,Historical,memorial;viewpoint;sunset,30.3480,78.0630,5,15,0,Year-round,1,easy,1,1,2,2,1,3
+15,Rajpur Road Cafes,Dehradun City,Food/Cafes,cafes;nightlife;shopping,30.3350,78.0600,3,10,0,Year-round,2,easy,1,1,1,1,5,4
+16,Pacific Mall,Dehradun City,Shopping,mall;movies;kids,30.3260,78.0570,4,12,0,Year-round,3,easy,1,1,1,1,4,3
+17,Parade Ground,Dehradun City,Landmark/Park,park;events,30.3190,78.0330,2,8,0,Year-round,1,easy,1,1,1,2,2,3
+18,Indian Military Academy,Dehradun City,Heritage,military;heritage;visit-restricted,30.3270,77.9990,6,18,0,Year-round,2,easy,1,1,1,2,1,3
+19,Doon Zoo (Mini Zoo) Malsi,Dehradun City,Zoo,zoo;kids,30.3790,78.0830,11,25,40,Oct-Mar,2,easy,1,1,1,3,1,3
+20,Gandhi Park,Dehradun City,Park,park;relaxing,30.3200,78.0400,2,8,0,Year-round,1,easy,1,1,1,2,1,2
+21,Sai Baba Temple Dehradun,Dehradun City,Temple,temple;city,30.3260,78.0480,3,10,0,Year-round,1,easy,1,1,4,1,1,2
+22,Jolly Grant Airport Viewpoint Belt,Doiwala,Landmark,airport;highway,30.1900,78.1800,25,40,0,Year-round,1,easy,1,1,1,1,1,1
+23,Mussoorie Mall Road,Mussoorie,Promenade,mall-road;shopping;cafes,30.4598,78.0664,35,75,0,Year-round,4,easy,1,1,1,3,4,5
+24,Gun Hill and Ropeway,Mussoorie,Viewpoint,ropeway;himalaya-view,30.4590,78.0720,35,75,150,Oct-Jun,2,easy,1,2,1,3,2,4
+25,Kempty Falls,Mussoorie,Waterfall,waterfall;swim;picnic,30.4850,78.0270,43,85,50,Jun-Oct,3,easy,1,2,1,4,2,4
+26,Camel's Back Road,Mussoorie,Nature Walk,walk;sunset;rock,30.4560,78.0560,34,70,0,Year-round,2,easy,1,1,1,3,1,4
+27,Lal Tibba,Mussoorie,Viewpoint,viewpoint;telescope;himalaya-view,30.4640,78.0800,36,80,30,Oct-Jun,2,easy,1,2,1,4,1,5
+28,Cloud's End,Mussoorie,Nature/Trail,forest;trail;peaceful,30.4260,78.0200,40,85,100,Mar-Nov,3,easy,1,2,1,5,1,4
+29,Company Garden,Mussoorie,Garden,garden;boating;kids,30.4380,78.0610,38,80,30,Mar-Oct,2,easy,1,1,1,3,1,3
+30,Mussoorie Lake,Mussoorie,Lake,lake;boating;kids,30.4310,78.0050,31,65,20,Mar-Oct,2,easy,1,2,1,3,1,3
+31,George Everest House,Mussoorie,Heritage/Viewpoint,heritage;viewpoint;trek,30.4570,78.0190,40,90,50,Oct-Jun,3,moderate,1,2,1,4,1,4
+32,Bhatta Falls,Mussoorie,Waterfall,waterfall;picnic,30.4310,78.0240,38,80,0,Jun-Oct,2,easy,1,2,1,4,1,3
+33,Jharipani Falls,Mussoorie,Waterfall,waterfall;trek,30.4390,78.0540,32,70,0,Jul-Oct,2,moderate,1,3,1,4,1,3
+34,Landour Clock Tower,Mussoorie,Heritage,heritage;cafes;walk,30.4550,78.0950,38,85,0,Year-round,2,easy,1,1,1,4,3,5
+35,Char Dukan,Mussoorie,Food/Cafes,cafes;pancakes;landour,30.4600,78.0970,38,85,0,Year-round,2,easy,1,1,1,3,5,5
+36,Sister's Bazaar,Mussoorie,Heritage/Market,heritage;market;colonial,30.4570,78.0930,38,85,0,Year-round,1,easy,1,1,1,2,3,3
+37,Happy Valley Tibetan Temple,Mussoorie,Buddhist Temple,monastery;tibetan;market,30.4560,78.0640,33,70,0,Year-round,2,easy,1,1,5,2,3,4
+38,Benog Wildlife Sanctuary,Mussoorie,Wildlife/Trek,forest;birds;trek,30.4600,78.0300,36,80,100,Oct-Mar,4,moderate,1,3,1,5,1,3
+39,Jwalaji Temple Mussoorie,Mussoorie,Temple/Trek,temple;trek;viewpoint,30.4500,78.0200,37,85,0,Year-round,3,moderate,1,3,5,4,1,3
+40,Mossy Falls,Mussoorie,Waterfall/Trek,waterfall;trek;offbeat,30.4700,78.0100,45,90,50,Jul-Oct,3,moderate,1,4,1,5,1,3
+41,Library Chowk,Mussoorie,Landmark,heritage;market;cafes,30.4580,78.0670,35,75,0,Year-round,1,easy,1,1,1,2,4,3
+42,Kellogg Memorial Church Landour,Mussoorie,Heritage/Church,heritage;church;language-school,30.4590,78.0940,38,85,0,Year-round,1,easy,1,1,3,2,1,3
+43,Christ Church Mussoorie,Mussoorie,Heritage/Church,heritage;church;colonial,30.4590,78.0650,35,75,0,Year-round,1,easy,1,1,3,1,1,3
+44,Jabarkhet Nature Reserve,Mussoorie,Nature/Birding,birds;private-reserve;forest,30.4500,78.0300,38,85,200,Mar-Nov,3,easy,1,2,1,5,1,3
+45,Hathipaon and Park Estate,Mussoorie,Heritage/Viewpoint,heritage;walk;viewpoint,30.4440,78.0480,38,80,0,Oct-Jun,2,easy,1,2,1,4,1,3
+46,Nag Devta Temple Mussoorie,Mussoorie,Temple,temple;forest,30.4630,78.0310,40,85,0,Year-round,2,easy,1,1,5,3,1,2
+47,Tip Top Tea Shop Landour,Mussoorie,Food,chai;landour;iconic,30.4600,78.0970,38,85,0,Year-round,1,easy,1,1,1,2,5,4
+48,Landour Bakehouse,Mussoorie,Food,bakery;cafe;landour,30.4560,78.0960,38,85,0,Year-round,1,easy,1,1,1,2,5,4
+49,Kalsang Friends Corner,Mussoorie,Food,tibetan;momos;mall-road,30.4500,78.0660,35,75,0,Year-round,1,easy,1,1,1,1,5,4
+50,Dhobighat and Childers Lodge Walk,Mussoorie,Nature Walk,walk;viewpoint;quiet,30.4610,78.0810,37,80,0,Oct-Jun,2,easy,1,2,1,4,1,3
+51,Chakrata,Chakrata,Hill Station,hill-station;deodar;offbeat,30.7010,77.8680,95,200,0,Mar-Oct,8,easy,1,3,1,5,1,3
+52,Tiger Falls,Chakrata,Waterfall/Trek,waterfall;trek;offbeat,30.6860,77.8790,110,240,0,Jul-Oct,6,moderate,1,4,1,5,1,4
+53,Deoban,Chakrata,Nature/Trek,forest;trek;camping,30.7280,77.8900,105,230,0,Apr-Jun,8,moderate,0,4,1,5,1,3
+54,Lakhamandal Temple,Chakrata,Temple/Heritage,ancient-temple;yamuna;heritage,30.7200,78.0690,125,270,0,Oct-Mar,3,easy,1,1,5,3,1,3
+55,Kanasar,Chakrata,Forest/Camping,deodar;camping;offbeat,30.6430,77.9250,100,210,0,Mar-Jun,6,easy,0,3,1,5,1,2
+56,Budher (Bidher) Caves,Chakrata,Cave/Trek,caves;trek;offbeat,30.6700,77.8800,105,230,0,Mar-Jun,5,moderate,0,4,1,4,1,2
+57,Mahasu Devta Temple Hanol,Chakrata,Temple,temple;ancient;jaunsar,30.8000,77.9300,150,330,0,Year-round,3,easy,1,1,5,3,1,3
+58,Kalsi Ashoka Edict,Kalsi,Historical,ashoka;inscription;heritage,30.5190,77.8570,45,80,0,Oct-Mar,1,easy,1,1,1,1,1,3
+59,Asan Barrage (Dhalipur),Vikasnagar,Bird Watching/Lake,lake;birds;offbeat,30.4740,77.7050,40,60,0,Oct-Mar,3,easy,1,1,1,4,1,3
+60,Dak Patthar,Vikasnagar,River/Picnic,yamuna;picnic;offbeat,30.4730,77.8000,50,90,0,Mar-Jun,3,easy,1,2,1,4,1,3
+61,Vikasnagar Yamuna Ghat,Vikasnagar,River,river;quiet,30.4700,77.7700,40,70,0,Oct-Mar,1,easy,1,1,2,3,1,2
+62,Kalsi Tons River Camp,Kalsi,Camping/River,camping;river;adventure,30.5000,77.8400,48,85,500,Oct-Jun,6,easy,0,4,1,4,1,2
+63,Maldevta Rope Climbing,Dehradun District Outskirts,Adventure,rope;climbing;kids,30.3580,78.0840,12,30,100,Oct-Jun,3,moderate,1,4,1,3,1,3
+64,Rishikesh Ram Jhula,Rishikesh,Landmark,bridge;ganga;cafes,30.1370,78.3090,43,60,0,Sep-Jun,4,easy,1,1,3,3,3,5
+65,Rishikesh Laxman Jhula,Rishikesh,Landmark,bridge;ganga;cafes,30.1250,78.3300,44,60,0,Sep-Jun,4,easy,1,1,3,3,3,5
+66,Triveni Ghat Ganga Aarti,Rishikesh,Pilgrimage,ganga-aarti;ghat;evening,30.1010,78.2970,42,55,0,Oct-Mar,2,easy,1,1,5,2,1,5
+67,Parmarth Niketan,Rishikesh,Ashram,ashram;yoga;aarti,30.1180,78.3050,43,60,0,Oct-Mar,3,easy,1,1,5,2,1,4
+68,Beatles Ashram,Rishikesh,Heritage/Ashram,beatles;abandoned;art,30.1110,78.3270,45,65,150,Oct-Mar,2,easy,1,2,2,3,1,4
+69,Neer Garh Waterfall,Rishikesh,Waterfall/Trek,waterfall;trek;rishikesh,30.1310,78.3230,45,65,50,Jun-Oct,2,easy,1,3,1,4,1,3
+70,Shivpuri River Rafting,Rishikesh,Adventure,rafting;camping;river,30.1320,78.4150,65,110,600,Sep-Jun,6,moderate,0,5,1,4,1,5
+71,Rajaji National Park Rishikesh Range,Rishikesh,Wildlife,safari;elephants;forest,30.0668,78.2940,25,55,600,Nov-Jun,4,easy,1,3,1,5,1,4
+72,Chotiwala Restaurant Swarg Ashram,Rishikesh,Food,thali;iconic;ganga,30.1220,78.3140,43,60,0,Year-round,1,easy,1,1,2,1,5,3
+73,Kunjapuri Sunrise Viewpoint Route,Rishikesh,Viewpoint,sunrise;temple;trek,30.1930,78.3430,70,110,0,Year-round,3,easy,1,2,4,4,1,4
+74,Bungee Jumping Mohan Chatti,Rishikesh,Adventure,bungee;adrenaline;rishikesh,30.1400,78.4000,50,90,3500,Oct-Jun,3,hard,0,5,1,3,1,4
+75,Doon Valley Orchard Trail Selaqui,Sahaspur,Nature/Farms,farms;picnic;offbeat,30.3600,77.8800,22,40,0,Oct-Mar,2,easy,1,1,1,3,2,2
+76,Chandrabani Forest Viewpoint,Dehradun City,Nature/Viewpoint,forest;quiet;birds,30.3830,78.0970,13,30,0,Oct-Jun,2,easy,1,2,1,4,1,2
+77,Sahastradhara Ropeway,Dehradun City,Adventure,ropeway;viewpoint,30.3780,78.1330,14,35,150,Oct-Jun,2,easy,1,3,1,3,1,3
+78,Mussoorie Cable Car Gun Hill Viewpoint,Mussoorie,Viewpoint,ropeway;himalaya-view,30.4590,78.0720,35,75,150,Oct-Jun,2,easy,1,2,1,3,1,4
+79,Dehradun Zoo Jungle Safari Route,Dehradun City,Zoo/Safari,safari;kids,30.3780,78.0850,11,25,60,Oct-Mar,3,easy,1,2,1,4,1,3
+80,Kimadi Village Walk,Mussoorie,Village/Trek,village;trek;offbeat,30.4150,78.0200,36,80,0,Mar-Nov,3,moderate,1,3,1,5,1,2
